@@ -1,0 +1,265 @@
+International Journal of Economics and Finance; Vol. 10, No. 1; 2018
+ISSN 1916-971X
+E-ISSN 1916-9728
+Published by Canadian Center of Science and Education
+
+The Liquidity of Bitcoin
+Hio Loi
+Department of Accounting, Finance, Economics, and Political Science, The University of Tennessee at Martin, Martin, TN, USA
+doi:10.5539/ijef.v10n1p13
+URL: https://doi.org/10.5539/ijef.v10n1p13
+
+Abstract
+
+This paper studies the liquidity of Bitcoin using the time series daily data over the period 1/1/2014 to 12/31/2015. Based on the available data for Bitcoin, five liquidity measures are chosen to compare the liquidities among five Bitcoin exchanges and the liquidities of different sizes of stocks. The results suggest that the liquidity of Bitcoin depends on the choice of the Bitcoin exchanges, and Bitfinex, one of the Bitcoin exchanges, provides the highest liquidity for Bitcoin trading. Moreover, the results indicate that, on average, stocks are more liquid than Bitcoin.
+
+Keywords: Bitcoin, liquidity
+
+1. Introduction
+
+Bitcoin is introduced by a group of unidentified programmers called Satoshi Nakamoto. It is a decentralized peer-to-peer cryptocurrency. Bitcoin has received massive attention in media and academia since the beginning of 2013 because of its huge prices fluctuation.
+
+Bitcoin is created by mining, a process of finding a solution of computational problems. In theory, everyone can be a miner. One needs to download a software from Bitcoin’s official website then he or she could participate in the mining process. There are three ways to mine bitcoins: solo mining, mining contracts, and mining pools. In solo mining, miner relays on his or her resources only. The chance of success mining a bitcoin is lower but with a higher reward compared to other ways to mine bitcoins. Mining contracts and mining pools are different types of partnerships between two or more miners. Miners share their resources and bitcoins when they successfully solve a computational problem. Discussion of Bitcoin mining can be found in Kroll et al. (2013) and Bhaskar and Chuen (2015). However, given the price of Bitcoin is low, and the difficulty of mining Bitcoin increases exponentially overtime. Mining bitcoin is not cost effective for individuals. One can obtain Bitcoin through Bitcoin exchanges, and there are numerous Bitcoin exchanges in the market.
+
+There are two purposes of holding Bitcoin: purchasing and speculation. Bitcoin holders could exchange goods and services in both online or local stores; the number of merchants that accept Bitcoin is increasing. However, studies show that speculation is the main purpose for people holding Bitcoin (Goldman Sachs Investment Research, 2014, Hencic & Gourieroux, 2015, Cheung et al., 2015; and Cheah & Fry, 2015). Those Bitcoin holders would need to sell their Bitcoin at something point in time when they receive profits. Thus, liquidity becomes an important issue for Bitcoin holders.
+
+Given the rational cost-effective assumption, it is reasonable to assume that most of the Bitcoin holder buy and sell their bitcoins through Bitcoin exchanges. According to Bitcoin Charts website, there are hundreds of Bitcoin exchanges in the market providing exchange services for different currencies. Among all the Bitcoin exchanges, 48 exchanges target their business on exchanging between US dollar and Bitcoin. I suspect that the liquidity of Bitcoin is not the same across these 48 Bitcoin exchanges.
+
+This paper studies the liquidity of Bitcoin across Bitcoin exchanges and compares the liquidity of Bitcoin with different sizes of stocks regarding market capitalization. Five liquidity measures are selected based on the data limitation of Bitcoin: (1) Amibud’s proxy for illiquidity, (2) Relative Change in Volume, (3) Roll, (4) Coefficient of Elasticity of Trading, and (5) The index of Martin. The results show that the liquidity of Bitcoin depends on the choice of Bitcoin exchanges, and Bitfinex, one of Bitcoin exchanges, has the highest liquidity. In addition, the results suggest that Bitcoin is less liquid than stocks.
+
+2. Literature Review
+
+The studies on the liquidity of Bitcoin are limited. To the best of our knowledge, only two unpublished papers study the liquidity issue of Bitcoin. Fink and Johann (2014) study the liquidities of seven Bitcoin exchanges over the period of the year 2011 to the first half of the year 2014. The overall liquidity improves substantially based on the results of three liquidity measures: the Lesmond et al. (1990) zero return liquidity measure; Amihud (2002) illiquidity measure, and the Roll (1984) spread estimator. Their finding shows that the Mt. Gox exchange is the most liquid exchange among the seven selected Bitcoin exchanges.
+
+Brown (2014) studies the Bitcoin price return predictability and liquidity as measures of market efficiency for Mt. Gox exchange over the period of 1/7/2011 to 5/23/2013. To measure the liquidity, he follows Chordia et al. (2008) method which looks at the effective market spread. They find that an increase in Bitcoin traded volume leads to high volatility but low return predictability. However, there is no conclusive evidence has been found about the liquidity of Bitcoin.
+
+Liquidity describes how easy an asset can be sold in the market without affecting its price, and cash or currency is considered the most liquid asset. Although Bitcoin can be used to exchange goods and services in both online or local stores, the relationship among Bitcoin and other currencies is changing over time. Wu and Pandey (2014) find the correlations of Bitcoin and major world currencies (Note 1) are statistically insignificant except for the Canadian dollar which is negatively significant correlated with Bitcoin over the period of 7/2010 to 12/2013.
+
+However, Carrick (2016) observes different correlations among Bitcoin and most of the world currencies (Note 2) over the period of 1/1/2011 to 12/31/2015. Bitcoin is negatively significantly correlated with all currencies except for the British Pound and the Australian Dollar. Therefore, the correlation between Bitcoin and the world currencies is inconsistent over time.
+
+3. Liquidity Measure
+
+There is not a standard way to measure the liquidity of an asset or currency in the literature. Aitken and Winn (1997) report that there are 68 liquidity measures used in the literature. However, not all of the liquidity measurements are suitable for Bitcoin because of the limited data. For example, Bitcoin does not have a turnover rate, forward rate, etc. Five liquidity measures are selected for the study based on the available data for Bitcoin exchanges and stock indexes. To obtain the dynamic information about the liquidities of Bitcoin and stocks, monthly liquidity proxies are constructed based on the time series daily data. The five liquidity measures are discussed below.
+
+3.1 Amibud’s Proxy for Illiquidity
+
+Amihud (2002) proposes an illiquidity measure based on the price impact of a trade. This illiquidity measure is referred as Amihud’s proxy here, and it has been used widely in the literature. Amihud’s proxy is defined as the ratio between the absolute return over dollar volume.
+
+Equation (2) shows the way to calculate the return on the stock. Stocks with high ILLIQ value are illiquid compared with stocks with low ILLIQ value. The intuition of Amibhud’s proxy is that illiquid stocks require less trading volume to move the prices compared with liquid stocks.
+
+3.2 Relative Change in Volume
+
+Relative Change in Volume (RCV) is developed by Vidovic et al. (2014). Their method of illiquidity measure is based on the data on traded volume and stock returns.
+
+In contrast, an illiquid stock tends to have a big value for the same ratio. Therefore, Stocks with the value of RCV above 1 (below 1) are considered illiquid (liquid) stocks. This liquidity is designed for emerging markets because it captures the infrequent trading and the number of stocks to trade with.
+
+3.3 Roll
+
+Roll (1984) shows that trading costs have a negative serial correlation in subsequent price changes. He uses the following equation to measure stock liquidity. When the sample serial covariance is positive, the equation is undefined. Thus, a default numerical value of zero is substituted.
+
+3.4 Coefficient of Elasticity of Trading
+
+Datar (2000) suggests that liquidity is similar to the price elasticity of trading volume, so he proposes the Coefficient of Elasticity (CET)of trading which is calculated by dividing the percentage change in trading volume by the percentage change in price.
+
+The range of CET is from negative infinity to positive infinity. A high value of CET means the price changes are accompanied by a large change in the volume of transaction. If there is a large sized transaction to take place but with tiny or no change in price, the value of CET will approach either to positive or negative infinities. Therefore, a stock is highly liquid if its value of CET is far away from zero, either approaching positive or negative infinities. The sign of CET may not be relevant for the liquidity measurement, but the information content will be enriched with the sign.
+
+3.5 The Index of Martin (1975)
+
+Martin (1975) proposes a liquidity index (MLI) given an assumption that a stationary distribution of price changes hold through the entire transaction time. A high value of 𝑀𝐿𝐼 indicates less liquidity of a stock. The higher value of the ratio means the larger price dispersion corresponding to the traded volume.
+
+4. Data
+
+This study compares the liquidities of Bitcoin and different size of stocks regarding market capitalization. It is misleading to measure the liquidity of Bitcoin as the whole market because the transactions of Bitcoin rely on Bitcoin exchanges. The policies and conditions of each Bitcoin exchange are different such as the transaction fee, the traded volume, the market share, etc. Five Bitcoin exchanges are selected, and they are Bitstamp, Bitfinex, BTC-e, HitBTC, and itBit. These five companies are selected because of the data are available on Quandl website. Quandl website provides data of six Bitcoin exchanges, but the range of data is relatively short on one Bitcoin exchange so that Bitcoin exchange is dropped out of this study.
+
+Only U.S. stock market are considered in the study. Three indexes are applied in measuring stocks. They are iShare S&P Small Cap 600 Value Index Fund, iShare S&P Mid Cap 400 Value Index Fund, and iShare S&P 100 Index Fund. These indexes represent three different sizes of stocks in term of the market capitalization: small, middle, and large. These indexes are obtained through the Quandl website, and the data are originally from Google Finance. The time series daily data is used in the study, and the observation period is from 1/1/2014 to 12/31/2015. The data is available before 1/1/2014, but the time path of Bitcoin liquidity is not the objective of
+this study. Therefore, the data span covers only the most recent past two years give the time this paper is written.
+
+Table 1. Summary statistics
+
+397.5078
+14451.36
+399.0228
+23294.01
+389.2272
+8834.503
+406.8141
+480.7322
+397.4157
+2832.544
+
+169.1687
+12986.03
+167.4742
+26945.59
+172.0925
+7959.949
+159.6063
+499.2087
+167.7624
+3529.737
+
+0
+0
+182
+773.0237
+0
+0
+186.76
+4.52
+0
+0
+
+919.24
+124188.9
+926
+274465.7
+925
+73900.81
+905.34
+4991.8
+934.55
+37447.7
+
+503
+503
+503
+503
+503
+
+113.1832
+126116.5
+124.0655
+112976.4
+88.54048
+
+3.961703
+123862.6
+5.269883
+90039.16
+4.118138
+
+103.54
+22225
+110.47
+17515
+77.31
+
+121.92
+1675589
+133.98
+954283
+94.72
+
+503
+
+944754.7
+
+758162.1
+
+102658
+
+5523830
+
+Table 1 provides summary statistics of the data. The first observation is that three out of five Bitcoin exchanges have zero price and traded volume. One reason could be due to companies’ website under maintenance. We keep those observations in the dataset because those are relevant information for measuring liquidity. For example, clients of a Bitcoin exchange are not able to sign-in into their account when they decide to buy or sell their Bitcoin. In that case, Bitcoin becomes highly illiquid for them. Second, there are big differences of the mean values of traded volume between Bitcoin exchanges. For example, the average traded volume is only 480 bitcoins in HitBTC, but Bitfinex has 23294 bitcoins traded every day on average. Thus, these exchanges have a very different market share in the Bitcoin economy. The difference amount of prices and traded volumes across Bitcoin exchanges are not a surprise. Brandvold et al. (2015) study the price discovery on Bitcoin exchange.
+
+Their observation period is between 4/1/2013 and 2/25/2014. Their finding shows that the two Bitcoin exchanges: Mt. Gox and BTC-e are the market leaders in that period, but Mt. Gox filed bankruptcy in February 2014. BTC-e ranks the third place among the selected Bitcoin exchanges in their study according to the average traded volume. Therefore, it is a reasonable guess that the liquidity of Bitcoin is highly depended on the choice of Bitcoin exchange.
+
+We have fewer numbers of observations for the stock data during the same sample period because the U.S. stock market closes on Saturdays, Sundays and public holidays. The large market capitalization stocks which are represented by the S&P 100 has the smallest mean value of index but the biggest mean value of traded volume.
+
+Moreover, the mean values of the index and traded volume for the small and middle market capitalization stocks are similar. It seems that there is no correlation between the market capitalization and traded volume in stocks.
+
+5. Results and Discussion
+
+Figure 1. Graph the results of Amihd’s proxy for illiquidity (ILLIQ)
+
+Figure 1 graphs the results of Amihud’s proxy for illiquidity (ILLIQ). The numerical results are reported in table 2 in the appendix. According to Amihud’s proxy for illiquidity, the high value of ILLIQ indicates the less liquidity of a stock. In other words, a stock is more liquid when it has a lower value of ILLIQ. Note that only three Bitcoin exchanges are included in Figure 1. HitBTC and itBit have relatively large values of ILLIQ, so these two Bitcoin exchanges are removed for a better visual comparison. Dash lines represent the value of ILLIQ for stock indexes, and they are all below the solid line which is the Bitcoin exchanges. Obviously, whatever size of stocks, on average, are more liquid than Bitcoin. Although Bitstamp, in some periods, has lower values of ILLIQ than Bitfinex, Bitfinex overall has the highest liquidity. The mean values of ILLIQ are 3.55 × 10−9 and 5.14 × 10−9 for Bitfinex and Bitstamp, respectively. On the other hand, stocks with large sizes of market capitalization are more liquid than stock with small and middle sizes of market capitalization. Amihud’s proxy for illiquidity does not have a clear conclusion about whether middle size stocks are more liquid than small size stocks.
+
+Figure 2. Graph the results of Relative Change in Volume (RCV)
+
+Figure 2 graphs the results of the Relative Change in Volume (RCV) for all selected Bitcoin exchanges and stock indexes; the numerical results of RCV are reported in Table 3 in the appendix. A lower value of RCV represents a higher liquidity. Table 3 shows that HitBTC has the lowest mean value of RCV among all the Bitcoin exchanges and stock indexes. However, it would be misleading if only comparing the mean values Over the two years observation sample, there are many periods that HitBTC has a relative higher value of RCFV others.
+
+Therefore, unlike the results of Amihud’s proxy, the measure of RCV could not give any decisive conclusion.
+
+Figure 3. Graph the results of Roll
+
+Figure 3 graphs the results of Roll; the numerical results of Roll are reported in Table 4 in the appendix. BTC-e and itBit have large values of Roll. In order to have a better visual comparison, these two Bitcoin exchanges are removed in Figure 3. A high value of Roll means illiquidity. Thus, BTC-e and itBit are very illiquid based on this liquidity proxy, Roll. Overall, Bitcoin is not as liquid as stocks according to the results of Roll. Note that Bitstamp has a sudden high value of Roll on January 2015 because there are no traded records of Bitstamp between 1/6/2015 and 1/8/2015. We believe Bitstamp’s system was under maintenance during these three days.
+
+The results of Roll are as same as RCV. This liquidity measure, Roll, could not determine which Bitcoin exchanges have the highest liquidity. The stock indexes have smaller values of Roll compared with the Bitcoin exchanges in the entire sample period. However, the stock indexes are fluctuated and intersected with each other within the sample period. Thus, the results of Roll do not provide the relationship between the level of liquidity and the size of stocks.
+
+Figure 4. Graph the results of Coefficient of Elasticity of Trading (CET)
+
+Figure 4 graphs the results of Coefficient of Elasticity of Trading (CET) for all the Bitcoin exchanges and stock indexes; the numerical results are reported in Table 5 in the appendix. The way to interpret the results of CET is that a stock is more liquid if the value of CET of that stock is far away from zero. The results of CET are highly overlapped. BTC-e have a very large positive value of CET in July 2014, and Bitfinex has a very large negative value of CET in May 2015. Overall, there is no solid conclusion that we can make based on the results of CET.
+
+Figure 5. Graph the results of the index of Martin (1975)
+
+Finally, Figure 5 graphs the results of the index of Martin (1975), and again for a better visual comparison, only the results of two Bitcoin exchanges and stock indexes are reported. The numerical results about the index of Martin (1975) are reported in Table 6 in the appendix. The interpretation of the index of Martin (1975) is that a high value of the index means less liquid of the stock. Bitstamp has one high value of the index on January 2015, and the mean value of the index of Bitstamp is greater than the mean value of the index of Bitfinex, which is 0.7722 and 0.4259, respectively. Therefore, Bitfinex is the most liquid Bitcoin exchange based on the results of the index of Martin (1975). The results for three types of stocks are similar; they have tiny values of the index of Martin (1975). The different of their results are unable to recognize in the figure. The mean value of the index of Martin (1975) of small, middle and big stocks are 2.18 × 10−4 , 2.49 × 10−4 , and 1.38 × 10−5 , respectively.
+
+Overall, stocks are more liquid than Bitcoin, and stocks with larger market capitalization are more liquid than stocks with small and middle market capitalizations. To conclude, the results of the liquidity measures are not consistent. Amihud’s proxy for illiquidity and the index of Martin (1975) show Bitcoin is less liquid than stocks. The results suggest that Bitfinex is the most liquid Bitcoin exchange among the five. There are numerous Bitcoin exchanges in the market. Most of them provide exchange service between Bitcoin and one currency, but some exchanges provide exchange service between Bitcoin and multi-currencies. According to Bitcoin Charts website, there are 48 Bitcoin exchanges provide exchange service between Bitcoin and US dollar, and only 12 out of 48 exchanges are classified as active. The rest are considered as inactive. The liquidity of Bitcoin is highly depended on the characteristic of the Bitcoin exchanges. The results of this paper show that Bitfinex provides the highest liquidity because it has a relatively large and stable traded volume. Several studies show that Bitcoin is more likely used for a speculative purpose instead of purchasing goods and services (Hencic & Gourieroux, 2015, Cheung et al., 2015; and Cheah & Fry, 2015). Thus, the liquidity of Bitcoin is an important issue, and novice investors should carefully choose a Bitcoin exchange. One can pay attention to the size of a Bitcoin exchange’s traded volume, and whether it allows their customers make transaction every day. Investors might miss the best time to buy or sell their bitcoins if the website of the Bitcoin exchange often requires maintenance. Some Bitcoin exchanges have zero traded record in some days over the sample period. It is an abnormal situation, especially when the average traded volume is about ten thousand bitcoins per day.
+
+6. Transaction Cost
+
+In the above analyses, the liquidity of Bitcoin and stocks have been examined several liquidity measures that were suggested by the literature. Broadly speaking, the degree of liquidity of asset can be reflected in its transaction costs. This section discusses the transaction costs of trading Bitcoin and stocks. The information
+about the transaction costs of five Bitcoin exchanges is collected from their official website.
+
+For Bitstamp, its fee schedule depends on the last 30 days trading history. The range of fee is between 0.25% and 0.10%. For example, one who trades less than $20,000 in 30 days pays 0.25% fee. If someone trades more than $20,000,000, he or she pays 0.10% fee. Moreover, Bitstamp charges withdrawal fee whenever its customers want to cash out the money. Bitstamp accepts the Single Euro Payments Area (SEPA) to deposit and withdraw money into its account. €0.9 fees are charged once someone withdraws and converts the money to Euro, and minimum amount of SEPA withdrawal is $10. International withdrawals cost 0.9% fee, and minimum fee is $15. Besides, the minimum amount of international withdrawal is $50. The process of withdrawal takes 2-3 business days within SEPA zone and 5 business days outside SEPA zone.
+
+As same as Bitstamp, Bitfinex charges transaction fee based on the last 30 days traded volume in US dollar; people have larger traded volume pay less fee. Furthermore, Bitfinex’s customers can either choose to be a marker or taker when they place an order. Makers play a long game. They enter favorable buy and sell orders and wait for their bid or offer to be executed by another trader. In contrast, takers trade in real-time; they immediately execute trades on existing orders rather than waiting their price to be met by other traders. Makers pay a fee between 0% to 0.1%. If a maker’s traded volume achieves $7,500,000 or more, the maker enjoy 0% fee. Takers require to pay a little higher fee; the fee is between 0.1% to 0.2%. If a taker’s traded volume is $30,000,000 or more, the taker pays 0.1% fee. For deposit and withdrawal, Bitfinex accepts bank wire and charges 0.1% of the amount, with a minimum fee of $20.
+
+itBit charges trading fee for taker only. The fee again depends on the traded volume in the last 30 days. Takers need to pay 0.2% if their traded volume is 8,000 bitcoins or less. itBit claims that special low fees could be offered for traders whose traded volume is more than 8,000 bitcoins, but the takers need to contact itBit for further information. Makers do not subject to the trading fees in itBit. No information about deposit and withdrawal fees can be found on the itBit official website.
+
+BTC-e has a relative simple fee schedule. It charges 0.2% fees on each transaction. Also, no information about deposit and withdrawal fees can be found on BTC-e website. BTC-e accepts payment through US bank wire, EU bank wire, and major credit card companies. Last, HitBTC charges 0.1% or 0.09% trading fees for orders that execute immediately or do not execute immediately, respectively. The fees for deposit and withdrawal depend on currencies. Table 7 shows transaction fees for HitBTC. The minimum amount of bank transfer is 1 Euro or 10 US dollars. The SEPA payment takes within 3 days; SWIFT transfers take up to 10 days for the worldwide market.
+
+Table 7. Transaction fees of HitBTC
+
+The transaction costs of Bitcoin vary widely. As we discussed above, the transaction cost is determined by the selection of Bitcoin exchanges. The size of the traded volume would lead to different fees, and even the ways of trading (maker or taker) affect the fees. The currency that one chooses to deposit or withdraw from the Bitcoin exchange is another issue. Therefore, in reality, the liquidity of Bitcoin can be affected by many factors.
+
+About the transaction costs of trading stock, it is not surprise that the costs depend on individual brokerage and the types of services. The transaction costs of trading stock can vary between as low as $5 per trade to as high as $200 per trade. People who pay $5 transaction costs per trade usually handle the entire process by themselves in their on-line trading account. However, people who pay $200 transaction cost per trade will receive more insightful advice from their agents, and those agents will probably tailor-make an investment portfolio for them.
+
+Randomly selected a stock trading company, Scottrade. Scottrade charges $7 for on-line stock trading. Compared the transaction cost of trading Bitcoin and stocks, assuming a novice Bitcoin trader, he trades $10,000 in the last 30 days in one of our five selected Bitcoin exchanges. He is likely to pay $20 ($10,000 × 0.2% = $20) for the transaction cost. What if he decides to invest the same amount of money in stocks through Scottrade. He pays $7 fees for the transaction. The transaction cost is 0.07% ($7/$10,000 × 100 = 0.07%). Therefore, the conclusion is the same that stock trading is more liquid than Bitcoin trading.
+
+7. Conclusion
+
+This study compares the liquidity of five Bitcoin exchanges and different sizes of stocks using time series daily data over the period 1/1/2014 to 12/31/2015. Five liquidity measures are selected based on the available data for the Bitcoin exchanges and stocks indexes. Only two liquidity measures provide practical results, and they are Amihud’s proxy for illiquidity and the index of Martin (1975). The results suggest that the liquidity of Bitcoin depends on the choice of Bitcoin exchange. For example, two people who buy or sell Bitcoin in different Bitcoin exchanges will face different liquidity of their bitcoin. Both Amihud’s proxy for illiquidity and the index of Martin (1975) show that the Bitcoin exchange called Bitfinex provides the highest liquidity on Bitcoin trading.
+
+Compared the liquidity of Bitcoin and stocks, the results indicate that stocks are more liquid than Bitcoin no matter the sizes of stocks. In addition, stocks with a large size of market capitalization are more liquid than stocks with a small and middle size of market capitalization. For the future study, I would like to compare the liquidity of more Bitcoin exchanges as well as different types of stocks.
+
+References
+
+Bhaskar, N. D., & Chuen, D. L. K. (2015). Bitcoin mining technology. Handbook of Digital Currency: Bitcoin, Innovation, Financial Instruments, and Big Data, 45-64. https://doi.org/10.1016/B978-0-12-802117-0.00003-5
+
+Brandvold, M., Molnár, P., Vagstad, K., & Valstad, O. C. A. (2015). Price discovery on Bitcoin exchanges. Journal of International Financial Markets, Institutions and Money, 36, 18-35. https://doi.org/10.1016/j.intfin.2015.02.010
+
+Brown, W. L. (2014). An Analysis of Bitcoin Market Efficiency Through Measures of Short-Horizon Return Predictability and Market Liquidity. Claremont McKenna College Senior Theses, Paper 864. Retrieved from http://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1913&context=cmc_theses
+
+Carrick, J. (2016). Bitcoin as a Complement to Emerging Market Currencies. Emerging Markets Finance and Trade, 52(10), 2321-2334. https://doi.org/10.1080/1540496X.2016.1193002
+
+Datar, M. K. (2000). Stock market liquidity: Measurement and implications. In Proceedings of the 4th Capital Market Conference. Retrieved from http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.198.9599&rep=rep1&type=pdf
+
+Fink, C., & Johann, T. (2014). Bitcoin Markets. http://dx.doi.org/10.2139/ssrn.2408396
+
+Goldman Sachs Investment Research. (2014). Interview with Fred Ersham. Top of mind, 21, 8. Retrieved from https://www.paymentlawadvisor.com/files/2014/01/GoldmanSachs-Bit-Coin.pdf
+
+Kroll, J. A., Davey, I. C., & Felten, E. W. (2013). The economics of Bitcoin mining, or Bitcoin in the presence of adversaries. In Proceedings of Workshop on the Economics of Information Security. Retrieved from http://www.econinfosec.org/archive/weis2013/papers/KrollDaveyFeltenWEIS2013.pdf
+
+Lesmond, D. A., Ogden, J. P., & Trzcinka, C. A. (1999). A new estimate of transaction costs. The Review of Financial Studies, 12(5), 1113-1141. https://doi.org/10.1093/rfs/12.5.1113
+
+Martin, P. (1975). Analysis of the Impact of Competitive Rates on the Liquidity of NYSE Stocks. Economic Staff Paper, 75, 3.
+
+Pástor, L., & Stambaugh, R. F. (2003). Liquidity risk and expected stock returns. Journal of Political Economy, 111(3), 642-685. https://doi.org/10.1086/374184
+
+Roll, R. (1984). A simple implicit measure of the effective bid-ask spread in an efficient market. The Journal of Finance, 39(4), 1127-1139. https://doi/10.1111/j.1540-6261.1984.tb03897.x
+
+Vidović, J., Poklepović, T., & Aljinović, Z. (2014). How to Measure Illiquidity on European Emerging Stock Markets? Business Systems Research Journal, 5(3), 67-81. https://doi.org/10.2478/bsrj-2014-0020
+
+Wu, C. Y., Pandey, V. K., & DBA, C. (2014). The value of Bitcoin in enhancing the efficiency of an investor's portfolio. Journal of financial planning, 27(9), 44-52. Retrieved from https://www.researchgate.net/profile/Vivek_Pandey30/publication/280883667_The_value_of_Bitcoin_in_enhancing_the_efficiency_of_an_investor’s_portfolio/links/55ca6d5b08aea2d9bdcc00d4.pdf
+
+Table 2. Results of Amihd’s proxy for illiquidity (ILLIQ)
+
+Table 3. Results of Relative Change in Volume (RCV)
+
+Table 4. Results of Roll
+
+Table 5. Results of Coefficient of Elasticity Trading (CET)
+
+Table 6. Results of the index of Martin (1975)
+
